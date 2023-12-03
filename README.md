@@ -1,2 +1,8 @@
 # Centrality-Measure-in-PPI-Network
-Analyzing and Comparing Omicron Lineage Variants Protein–Protein Interaction Network Using Centrality Measure
+Analyzing and Comparing Omicron Lineage Variants Protein-Protein Interaction Network Using Centrality Measure
+
+The Worldwide spread of the Omicron lineage variants has now been confirmed. It is crucial to understand the process of cellular life and to discover new drugs needed to identify the important proteins in a protein interaction network (PPIN). PPINs are often represented by graphs in bioinformatics, which describe cell processes. Some proteins have significant
+influences on these tissues, and which play a crucial role in regulating them. The discovery of new drugs is aided by the study of significant proteins. These significant proteins can be found by reducing the graph and using graph analysis. Studies examining protein interactions in the Omicron lineage (B.1.1.529) and its variants (BA.5, BA.4, BA.3, BA.2, BA.1.1, BA.1) are not yet available. Studying Omicron has been intended to find a significant protein. 68 nodes represent 68 proteins and 52 edges represent the relationship among the protein in the network. A few centrality measures are computed namely page rank centrality (PRC), degree centrality (DC), closeness centrality (CC), and betweenness centrality (BC) together with node degree and Local clustering coefficient (LCC). We also discovered 18 network clusters using Markov clustering. 8 significant proteins (candidate gene of Omicron lineage variants) were detected among the 68 proteins, including AHSG, KCNK1,
+KCNQ1, MAPT, NR1H4, PSMC2, PTPN11 and, UBE21 which scored the highest among the Omicron proteins. It is found that in the variant of Omicron protein–protein interaction networks, the MAPT protein’s impact is the most significant.
+
+The paper was published in SN Computer Science Journal.
